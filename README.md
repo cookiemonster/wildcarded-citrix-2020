@@ -16,4 +16,4 @@ We are still retrieving and analyzing data of (previous) vulnerable Citrix serve
 
 This is the list of exposed wildcard certificates. At this moment, we can't share the full data set because not all vulnerable servers are successfully patched and secured yet.
 
-* [Short list]() - ***not complete***
+* [Exposed wildcard certificates: Short list](https://github.com/cookiemonster/wildcarded-citrix-2020/blob/master/exposed_wildcards.txt) - ***not complete***
