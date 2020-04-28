@@ -1,5 +1,5 @@
 # Exposed wildcard certificates
-Through four volunteers, the GDI Foundation scanned the internet for vulnerable Citrix devices and validated the results to remove false positives, sinkholes, and honeypots.
+Four volunteers of the GDI Foundation scanned the internet for vulnerable Citrix devices and validated the results to remove false positives, sinkholes, and honeypots.
 
 More than 98,000 vulnerable Citrix endpoints were found and reported through the Dutch Institute for Vulnerability Disclosure [DIVD.nl](https://divd.nl) to companies and Internet Service Providers when the owner could not be determined.
 
