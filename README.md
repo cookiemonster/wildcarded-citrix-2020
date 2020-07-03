@@ -20,5 +20,5 @@ This is the list of *exposed* (**not compromized**) wildcard certificates. At th
 
 * [Exposed (14,958) wildcard certificates: Short list](https://github.com/cookiemonster/wildcarded-citrix-2020/blob/master/exposed_wildcards.txt) - (last update 27-01-2020 / 15:00 CET) ***not complete***
 
-8 [Exposed certificates: full index](https://drive.google.com/file/d/1bRfCPGkDn1anJmtg8_52mayR6hQ-3Z3U/view?usp=sharing) - (final update: 03-07-2020)
+* [Exposed certificates: full index](https://drive.google.com/file/d/1bRfCPGkDn1anJmtg8_52mayR6hQ-3Z3U/view?usp=sharing) - (final update: 03-07-2020)
 ~~If you have a question about this list, the source of the data or you would like to receive more details about your certificate or server which was detected in our scans you can contact cert[at]divd[dot]nl.~~
