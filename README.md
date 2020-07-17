@@ -9,7 +9,7 @@ If an attacker steals a wildcard certificate, they can build phishing sites that
 
 “So after patching these organizations need to have this certificates revoked and get new ones “ - Victor Gevers
 
-DIVD issued an [alert on Wednesday](https://www.securitymeldpunt.nl/cases/202002-Wildcard-Certificaten-Citrix-ADC/) about the poor combination of wildcard certificates with the Citrix vulnerability. 
+DIVD issued an [alert on Wednesday](https://www.securitymeldpunt.nl/cases/DIVD-2020-00002/) about the poor combination of wildcard certificates with the Citrix vulnerability. 
 
 This is the [full article](https://www.bleepingcomputer.com/news/security/patching-the-citrix-adc-bug-doesnt-mean-you-werent-hacked/) on Bleepingcomputer.
 
