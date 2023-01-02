@@ -2442,7 +2442,6 @@
 *.cbord.com
 *.cbp.com.au
 *.cbpquilvest.com
-*.cbq.qa
 *.cbr.de
 *.cbrands.com
 *.cbre.eu
